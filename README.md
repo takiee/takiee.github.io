@@ -1,9 +1,5 @@
 # Welcome to GitHub Pages
-<div  align="center">    
-<img src="2387036d0a8665da.jpg" style="zoom:50%" alt="图片名称" align=center />
-</div>
-
-
+[Email](ti_anjie@125.com) | [CSDN](https://blog.csdn.net/weixin_43445661?spm=1000.2115.3001.5343)
 ## 田婕
 我是一名来自山东大学软件学院的大三本科生，就读于新工科人工智能实验班，导师为孙宇清教授。<br/>
 我的研究兴趣为自然语言处理，问题生成和指静脉识别。
