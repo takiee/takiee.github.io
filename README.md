@@ -14,7 +14,7 @@
 实现指静脉图像的预处理、特征提取和特征匹配的完整过程。使用 CLAHE 算法对指静脉 ROI 图像进行增强；使用多尺度匹配滤波提取静脉纹路，通过 Zhang-Suen 算法进行静脉纹路的细化；提取细节点并根据细节点特征和结构特征进行匹配。
 <br/>
 
-- MusicSearcher<br/>
+- [MusicSearcher](https://github.com/takiee/music-searcher)<br/>
 通过 Scrapy 框架爬取了 QQ 音乐中超 21 首歌曲信息，并对数据进行了清洗和整理；基于 jieba 分词和 whoosh 框架对数据进行了分词、索引、评分和排序；设计了 MSV 模式下前后端分离的搜索网页，使用 HTML 和 CSS 进行网页的前端设计，Django 和 Python 进行网页后端设计。
 <br/>
 
