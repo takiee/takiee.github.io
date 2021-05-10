@@ -10,7 +10,7 @@
 担任项目小组组长，项目思路受到Dureader数据集的启发，先将问题分类，后根据分类获得的标签进行问题生成，项目正在进行中，目前在使用uniLM模型进行改进。
 <br/>
 
-- FingerVeinRecognition<br/>
+- [FingerVeinRecognition](https://github.com/takiee/finger-vein-recognition)<br/>
 实现指静脉图像的预处理、特征提取和特征匹配的完整过程。使用 CLAHE 算法对指静脉 ROI 图像进行增强；使用多尺度匹配滤波提取静脉纹路，通过 Zhang-Suen 算法进行静脉纹路的细化；提取细节点并根据细节点特征和结构特征进行匹配。
 <br/>
 
