@@ -6,7 +6,7 @@
 2020年高教社杯全国大学生数学建模竞赛 国家二等奖  
 2019年山东省软件设计大赛 省级三等奖
 ## 项目经历
-- QueationGeneration(正在进行中)<br/>
+- [QueationGeneration(正在进行中)](https://blog.csdn.net/weixin_43445661/category_10855606.html?spm=1001.2014.3001.5482)<br/>
 担任项目小组组长，项目思路受到Dureader数据集的启发，先将问题分类，后根据分类获得的标签进行问题生成，项目正在进行中，目前在使用uniLM模型进行改进。
 <br/>
 
@@ -18,11 +18,11 @@
 通过 Scrapy 框架爬取了 QQ 音乐中超 21 首歌曲信息，并对数据进行了清洗和整理；基于 jieba 分词和 whoosh 框架对数据进行了分词、索引、评分和排序；设计了 MSV 模式下前后端分离的搜索网页，使用 HTML 和 CSS 进行网页的前端设计，Django 和 Python 进行网页后端设计。
 <br/>
 
-- minesweeper<br/>
+- [minesweeper](https://github.com/takiee/minesweeper)<br/>
 实现经典的扫雷游戏并加入选择难度和雷区大小等功能；前端使用 Qt 进行图形用户界面的设计，后端使用 C++通过洗牌算法和 floodfill 算法进行埋雷布局
 <br/>
 
-- Class Affairs Management System<br/>
+- [Class Affairs Management System](https://github.com/takiee/csms)<br/>
 基于 Java、MySQL、Swings 实现 C/S 模式的大学班级内日常事务管理系统；使用 Socket 进行网络通讯；具有私聊，群聊，（匿名）投票，发布公告，查看聊天记录等功能
 
 ## 荣誉奖项
