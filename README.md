@@ -1,7 +1,9 @@
 # 田婕
-[Email](mailto:ti_anjie@126.com) | [CSDN](https://blog.csdn.net/weixin_43445661?spm=1000.2115.3001.5343)|[CV](./CV.jpg)<br/>
+[Email](mailto:ti_anjie@126.com) | [CSDN](https://blog.csdn.net/weixin_43445661?spm=1000.2115.3001.5343)
 我是一名来自山东大学软件学院的大三本科生，就读于新工科人工智能实验班，导师为[孙宇清](https://www.sc.sdu.edu.cn/info/1044/1720.htm)教授。  
 我的研究兴趣为自然语言处理，问题生成和指静脉识别。
+<br/>
+[Click to see my CV.](./CV.jpg)<br/>
 ## 竞赛经历
 **2020年高教社杯全国大学生数学建模竞赛 国家二等奖**  
 2019年山东省软件设计大赛 省级三等奖
