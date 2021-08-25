@@ -1,6 +1,6 @@
 # 田婕
 [Email](mailto:ti_anjie@126.com) | [CSDN](https://blog.csdn.net/weixin_43445661?spm=1000.2115.3001.5343)   
-[CV]()
+[CV]()<br/>
 我是一名来自山东大学软件学院的大三本科生，就读于新工科人工智能实验班，导师为[孙宇清](https://www.sc.sdu.edu.cn/info/1044/1720.htm)教授。  
 我的研究兴趣为自然语言处理，问题生成和指静脉识别。
 ## 竞赛经历
